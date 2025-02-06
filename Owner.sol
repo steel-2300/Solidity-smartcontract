@@ -1,6 +1,9 @@
 // SPDX-License-Identifier: GPL-3.0
 pragma solidity ^0.8.0;
 
+
+//not
+
 contract Owner {
     address public owner;
     address public superOwner;
